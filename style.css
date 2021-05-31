@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+    font-size: 14px;
+    line-height: 1.5;
+    color: white;
+    background-color: #0d1117;
+    border: 1px solid;
+    border-radius: 6px;;
+    color: #161B22, #C9D1D9, #0d1117, #238636, #2ea043, #3fb950;
+}
